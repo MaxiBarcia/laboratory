@@ -2,7 +2,7 @@
 
 [](https://github.com/incommatose/dockerlabs-writeups/tree/main#writeups-dockerlabs)
 
-Bienvenid@s 👋, soy Andrés y soy un estudiante autodidacta de ciberseguridad y hacking ético 💻📚. En este repositorio almacenaré todas las guías sobre resoluciones de máquinas de la plataforma de `Dockerlabs.es` 🐳. Tienes disponible la siguiente tabla de contenido con las respectivas guías clasificadas por dificultad, espero que te sirva de ayuda este aporte, si tienes algún comentario o sugerencia, no dudes en contactarme 💪.
+Bienvenid@s 👋, soy Maximliano y soy un estudiante de ciberseguridad y hacking ético 💻📚. En este repositorio almacenaré todas las guías sobre resoluciones de máquinas de la plataforma de `Dockerlabs.es` 🐳. Tienes disponible la siguiente tabla de contenido con las respectivas guías clasificadas por dificultad, espero que te sirva de ayuda este aporte, si tienes algún comentario o sugerencia, no dudes en contactarme 💪.
 
 ## Lanzar el laboratorio
 
